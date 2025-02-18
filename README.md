@@ -18,7 +18,7 @@ O **Lucas Bet** é um simulador de jogos de aposta fictícios, criado para fins 
 ✔️ Simulação de jogos como caça-níquel, jogo de dados e blackjack  
 ✔️ Sistema de saldo fictício  
 ✔️ Histórico de apostas  
-✔️ Estatísticas de ganhos e perdas 
+✔️ Estatísticas de ganhos e perdas  
 ✔️ Saques e Depositos com valor minimo
 
 ## 📥 Como Jogar   
