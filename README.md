@@ -23,9 +23,9 @@ O **Lucas Bet** é um simulador de jogos de aposta fictícios, criado para fins 
 
 ## 📥 Como Jogar   
 
-1️⃣ Baixe o arquivo `lucas_bet.cpp`  
-2️⃣ Compile o código com `g++ lucas_bet.cpp -o lucas_bet`  
-3️⃣ Execute `./lucas_bet` no terminal  
+1️⃣ Baixe o arquivo `bet.cpp`  
+2️⃣ Compile o código com `g++ bet.cpp -o bet`  
+3️⃣ Execute `./bet` no terminal  
 4️⃣ Escolha o jogo e comece a diversão
 
 ---
